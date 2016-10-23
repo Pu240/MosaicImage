@@ -1,2 +1,2 @@
 # MosaicImage
-I'm trying to make a picture consisting of lots of small iamges
+制作马赛克拼图
